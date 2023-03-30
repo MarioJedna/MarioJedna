@@ -3,7 +3,7 @@
 - :seedling: I’m currently learning React and Laravel
 - :mailbox: How to reach me:
 - :e-mail: Email - Lukas.Vitu@gmail.com
-- :briefcase: LinkedIn: [Jan Sebesta](https://www.linkedin.com/in/lukas-vitu/)
+- :briefcase: LinkedIn: [Lukas Vitu](https://www.linkedin.com/in/lukas-vitu/)
 - :zap: 
 ## :computer: Skills
 - React
