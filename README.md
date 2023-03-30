@@ -1,16 +1,23 @@
-### Hi there 👋
-
-
-<!-- **MarioJedna/MarioJedna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+## I'm a fullstack developer based in Prague!
+<!-- - :telescope: I finished Coding Bootcamp Prague -->
+- :seedling: I’m currently learning React and Laravel
+- :mailbox: How to reach me:
+- :e-mail: Email - Lukas.Vitu@gmail.com
+- :briefcase: LinkedIn: [Jan Sebesta](https://www.linkedin.com/in/lukas-vitu/)
+- :zap: 
+## :computer: Skills
+- React
+- Laravel
+- JavaScript
+- PHP
+- MySQL
+- Bootstrap
+- HTML5
+- CSS
+- Git
+## :rocket: Projects
+- in progress
+## :art: Hobbies
+- Sci-Fi Books
+- Philosophy
+- Ambient Music
